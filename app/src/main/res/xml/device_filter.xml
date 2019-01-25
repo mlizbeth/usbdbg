@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Should be the IDs for MagTek SCRA Scanner -->
+<resources>
+    <usb-device vendor-id="0801" product-id="1" class="0" subclass="0" protocol="0"/>
+    <usb-device vendor-id="0801" product-id="2" class="0" subclass="0" protocol="0"/>
+    <usb-device vendor-id="2049" product-id="1" class="0" subclass="0" protocol="0"/>
+</resources>
